@@ -1,0 +1,18 @@
+.jumbotron  {        
+   
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.jumbotron h1{
+    color: #fff;
+}
+
+.jumbotron p{
+    color: black;
+}
+
+.well {
+    background: white;
+    border: 1px solid rgb(81, 144, 239);
+}
